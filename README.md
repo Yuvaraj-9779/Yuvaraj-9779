@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Firebase+Developer;Always+Learning+New+Things" />
 </p>
 
-### 🚀 AI & ML Enthusiasist
+### 🚀 |AI & Machine Learning Enthusiast | Generative AI | Deep Learning
+
+
 
 
 ---
@@ -22,14 +24,30 @@ View Resume
 
 ---
 
-## 🛠️ Tech Stack
 
-* 💡 Languages: C++, JavaScript
-* 🌐 Web: HTML, CSS, React
-* 🔥 Backend & DB: Firebase, MySQL
-* ⚙️ Tools: Git, GitHub, VS Code
+## 🛠️ Technical Skills 
+
+ Programming : Python,C,C++,
+ Web: HTML, CSS, React
+ Backend & DB: Firebase, MySQL
+ Visualization: NumPy, Pandas, Matplotlib, Seaborn
+ OS: Windows, Linux
+ Tools: Git, GitHub, VS Code
+ Relevant Coursework: Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
 
 ---
+Experience
+## 💼 Experience  
+
+**Plant Leaf Disease Detection**  
+Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite  
+Aug 2025 – Dec 2025  
+
+- Developed a system to detect plant leaf diseases using image data and machine learning techniques.  
+- Preprocessed and analyzed leaf images to improve model performance.  
+- Trained and tested the model to identify different types of plant diseases.  
+- Worked in a team environment and contributed to building a complete working solution.  
+- Gained hands-on experience in AI-based applications and real-world problem solving.  
 
 ## 📂 Projects
 
