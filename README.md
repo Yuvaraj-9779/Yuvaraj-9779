@@ -38,7 +38,7 @@ I like creating useful applications and learning new concepts step by step.
 ---
 ## 💼 Experience  
 
-**Plant Leaf Disease Detection**  
+ Design Project - **Plant Leaf Disease Detection**  
 Indian Institute of Information Technology Vadodara (IIIT Vadodara) | Onsite  
 Aug 2025 – Dec 2025  
 
