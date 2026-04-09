@@ -27,16 +27,15 @@ V
 
 ## 🛠️ Technical Skills 
 
- Programming : Python,C,C++
- Web: HTML, CSS, React
- Backend & DB: Firebase, MySQL
- Visualization: NumPy, Pandas, Matplotlib, Seaborn
- OS: Windows, Linux
- Tools: Git, GitHub, VS Code
- Relevant Coursework: Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography, Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
+- Programming : Python,C,C++
+- Web: HTML, CSS, React
+- Backend & DB: Firebase, MySQL
+- Visualization: NumPy, Pandas, Matplotlib, Seaborn
+- OS: Windows, Linux
+- Tools: Git, GitHub, VS Code
+- Relevant Coursework: Data Structures and Algorithms, Database Management Systems, OOPS, Computer Networks, Cryptography,   Cybersecurity, Machine Learning, Deep Learning, Data Analytics.
 
 ---
-Experience
 ## 💼 Experience  
 
 **Plant Leaf Disease Detection**  
