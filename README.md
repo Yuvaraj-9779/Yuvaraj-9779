@@ -20,7 +20,7 @@ Right now, I am improving my skills in React and Firebase by working on small pr
 I like creating useful applications and learning new concepts step by step.  
 
 📄 Resume:  
-V
+
 
 ---
 
