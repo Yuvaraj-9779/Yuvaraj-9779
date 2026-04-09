@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+%7C+Firebase+Developer;Always+Learning+New+Things" />
 </p>
 
-### 🚀 |AI & Machine Learning Enthusiast | Generative AI | Deep Learning
+### 🚀 AI & Machine Learning Enthusiast | Generative AI | Deep Learning
 
 
 
