@@ -53,7 +53,7 @@ View Resume
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: https://www.linkedin.com/in/modugu-yuvaraj-5749353a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * 📧 Email: 202311052@diu.iiitvadodara.ac.in(mailto:202311052@diu.iiitvadodara.ac.in)
 
 ---
