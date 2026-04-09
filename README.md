@@ -54,7 +54,7 @@ View Resume
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your-email@gmail.com](mailto:202311052@diu.iiitvadodara.ac.in)
+* 📧 Email: 202311052@diu.iiitvadodara.ac.in(mailto:202311052@diu.iiitvadodara.ac.in)
 
 ---
 
