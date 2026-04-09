@@ -20,14 +20,14 @@ Right now, I am improving my skills in React and Firebase by working on small pr
 I like creating useful applications and learning new concepts step by step.  
 
 📄 Resume:  
-View Resume
+V
 
 ---
 
 
 ## 🛠️ Technical Skills 
 
- Programming : Python,C,C++,
+ Programming : Python,C,C++
  Web: HTML, CSS, React
  Backend & DB: Firebase, MySQL
  Visualization: NumPy, Pandas, Matplotlib, Seaborn
