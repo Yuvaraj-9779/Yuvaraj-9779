@@ -10,10 +10,14 @@
 
 ## 👨‍💻 About Me
 
-* 💻 Currently learning **Programming & Development**
-* 🤖 Interested in **AI & Machine Learning**
-* 🌱 Working on **React & Firebase Projects**
-* 🎯 Goal: Become a **Professional Software Engineer**
+I am a Computer Science student who enjoys learning and building things with technology.  
+I am mainly interested in AI, Machine Learning, and web development.  
+
+Right now, I am improving my skills in React and Firebase by working on small projects.  
+I like creating useful applications and learning new concepts step by step.  
+
+📄 Resume:  
+View Resume
 
 ---
 
